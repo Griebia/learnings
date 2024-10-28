@@ -7,6 +7,7 @@
 # Coureses
 
 * Functional Programming Principles in Scala École Polytechnique Fédérale de
+* Functional Program Design in Scala École Polytechnique Fédérale de Lausanne
 * Programming with Google Go University of California, Irvine
 
 Feel free to suggest any books or provide feedback!
